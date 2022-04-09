@@ -1,6 +1,9 @@
-# Hi there, I'm Madison! 👋
+# `Put God first and keep going again and again ...`
 
-Flutter 💙 lover
+`Hello world`, I'm Madison! 👋
+
+**Flutter 💙 lover**
+<br>
 passionate 😍 and motivated 💪
 
 
@@ -9,7 +12,7 @@ passionate 😍 and motivated 💪
 
 <!-- <img align="left" with="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madison08"> -->
 
-# stack
+<!-- # stack -->
 
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
