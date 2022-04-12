@@ -1,4 +1,4 @@
-# `Put God first and keep going again and again ...`
+# `Put God first and do it again and again ...`
 
 `Hello world`, I'm Madison! 👋
 
