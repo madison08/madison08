@@ -1,3 +1,3 @@
-# `Put God first and do it again and again ...`
+# `Quantity has a quality of its own ...`
 
 `Hello world`, I'm Madison! 👋
